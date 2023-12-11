@@ -1,6 +1,6 @@
-# Proyecto Git LemonCode ![Git Logo](https://github.com/github.png)
+# Proyecto Git LemonCode ![Git Logo](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
 
-## Crear un repositorio en local
+## Crear un repositorio en local y subir el repositorio a Github
 
 Para comenzar este proyecto he creado una carpeta con el nombre **git-lemoncode**. Con el directorio aún vacio he inicializado git en el repositorio local utilizando el comando
 
