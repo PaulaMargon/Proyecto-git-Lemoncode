@@ -1,4 +1,4 @@
-# Proyecto Git LemonCode ![Git Logo](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
+# Proyecto Git LemonCode ![Git Logo](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## Crear un repositorio en local y subir el repositorio a Github
 
